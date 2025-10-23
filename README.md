@@ -2,7 +2,7 @@
 
 日常笔记记录
 
-> 为了更好的浏览体验，已同步到[个人博客](https://wangkuowink.github.io/blog/daily-notes/)
+> 为了更好的浏览体验，已同步到[个人博客](https://wangkuowink.github.io/wk-notes/daily-notes/)
 >
 > [新写一篇小笔记](https://github.com/wangkuowink/daily-notes/issues/new)
 
