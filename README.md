@@ -10,7 +10,7 @@
 
 ## 2025 年 (共计 3 篇)
 
-1. 2025-10-24 —— [GitHub Pages 部署](https://github.com/wangkuowink/daily-notes/issues/3)
+1. 2025-10-24 —— [GitHub Actions 构建与部署 workflow](https://github.com/wangkuowink/daily-notes/issues/3)
 
 2. 2025-10-23 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wangkuowink/daily-notes/issues/2)
 
