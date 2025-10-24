@@ -6,10 +6,12 @@
 >
 > [新写一篇小笔记](https://github.com/wangkuowink/daily-notes/issues/new)
 
-共计 **2** 篇（上次更新: 2025-10-23）
+共计 **3** 篇（上次更新: 2025-10-24）
 
-## 2025 年 (共计 2 篇)
+## 2025 年 (共计 3 篇)
 
-1. 2025-10-23 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wangkuowink/daily-notes/issues/2)
+1. 2025-10-24 —— [GitHub Pages 部署](https://github.com/wangkuowink/daily-notes/issues/3)
 
-2. 2025-10-23 —— [从 VSCode 迁移到 Cursor](https://github.com/wangkuowink/daily-notes/issues/1)
+2. 2025-10-23 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wangkuowink/daily-notes/issues/2)
+
+3. 2025-10-23 —— [从 VSCode 迁移到 Cursor](https://github.com/wangkuowink/daily-notes/issues/1)
