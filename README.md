@@ -6,12 +6,14 @@
 >
 > [新写一篇小笔记](https://github.com/wangkuowink/daily-notes/issues/new)
 
-共计 **3** 篇（上次更新: 2025-10-24）
+共计 **4** 篇（上次更新: 2025-11-28）
 
-## 2025 年 (共计 3 篇)
+## 2025 年 (共计 4 篇)
 
-1. 2025-10-24 —— [GitHub Actions 构建与部署 workflow](https://github.com/wangkuowink/daily-notes/issues/3)
+1. 2025-11-28 —— [【前端必修】后端返回超出 JS 最大安全整数的大数字，纯前端如何保证不丢精度？](https://github.com/wangkuowink/daily-notes/issues/4)
 
-2. 2025-10-23 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wangkuowink/daily-notes/issues/2)
+2. 2025-10-24 —— [GitHub Actions 构建与部署 workflow](https://github.com/wangkuowink/daily-notes/issues/3)
 
-3. 2025-10-23 —— [从 VSCode 迁移到 Cursor](https://github.com/wangkuowink/daily-notes/issues/1)
+3. 2025-10-23 —— [Git 修改历史 commits 中的用户名和邮箱](https://github.com/wangkuowink/daily-notes/issues/2)
+
+4. 2025-10-23 —— [从 VSCode 迁移到 Cursor](https://github.com/wangkuowink/daily-notes/issues/1)
