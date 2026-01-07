@@ -6,7 +6,11 @@
 >
 > [新写一篇小笔记](https://github.com/wangkuowink/daily-notes/issues/new)
 
-共计 **9** 篇（上次更新: 2025-12-08）
+共计 **10** 篇（上次更新: 2026-01-07）
+
+## 2026 年 (共计 1 篇)
+
+1. 2026-01-07 —— [📘 VitePress 使用经验分享（多语言 & 部署实践）](https://github.com/wangkuowink/daily-notes/issues/11)
 
 ## 2025 年 (共计 9 篇)
 
